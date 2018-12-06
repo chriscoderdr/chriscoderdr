@@ -22,6 +22,7 @@ There is a [Yammer community](https://www.yammer.com/uopeoplewelcome) where you 
 Overall I'm pretty positive about this whole experience, I'll be posting more as I get through the course.
 
 
-References
+## References
+
 The World's First Tuition-free University. (n.d.). Retrieved December 6, 2018, from [https://www.uopeople.edu/tuition-free/](https://www.uopeople.edu/tuition-free/)
 
