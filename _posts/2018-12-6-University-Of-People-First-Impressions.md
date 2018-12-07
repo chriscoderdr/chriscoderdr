@@ -5,7 +5,7 @@ title: My first impressions on University Of People
 
 It's been three weeks since I started my first course at [University Of People](https://www.uopeople.edu) a non-profit online university that let you get a bachelor or associate degree without going in person to a classroom. Important to differentiate between free and non-profit, it's not free, but tuition-free, which means that they do not charge for teaching or instruction but there is an Application fee and an assessment fee. (The World's First Tuition-free University, (n.d.), p. 1).
 
-I choose UOP because I want a degree but I don't want the burden that's to have to go to a classroom and having to schedule my time around that, which usually means asking permissions at work to be able to take some classes and that sort of messy things that I wanted to avoid. It's self-paced at least in the sense that you don't need to be at an exact time and date to take the class but assessments do have a fixed date to be delivered.
+I choose UoPeople because I want a degree but I don't want the burden that's to have to go to a classroom and having to schedule my time around that, which usually means asking permissions at work to be able to take some classes and that sort of messy things that I wanted to avoid. It's self-paced at least in the sense that you don't need to be at an exact time and date to take the class but assessments do have a fixed date to be delivered.
 
 I'm happy with the way it works until now, as I don't have an English Certification and I'm not from an English speaking country the course I'm taking first it's ENGL 0101 (English Composition 1) which it's a prerequisite in case you can't demonstrate your English knowledge with some kind of certification.
 
