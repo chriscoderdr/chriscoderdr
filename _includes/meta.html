@@ -8,12 +8,12 @@
         <meta property="og:image" content="{{ page.header-img }}" />
     {% endif %}
     {% if page.excerpt %}
-     <meta name="twitter:card" content="summary">{{ page.excerpt| strip_html }}</meta>
+        <meta name="twitter:card" content="summary">{{ page.excerpt| strip_html }}</meta>
 
         <meta name="description" content="{{ page.excerpt| strip_html }}" />
         <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
-        <meta name="twitter:card" content="summary">{{ site.description }}</meta>
+        <meta name="twitter:card" content="summary">{{ site.description | strip_html }}</meta>
         <meta name="description" content="{{ site.description }}">
         <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
