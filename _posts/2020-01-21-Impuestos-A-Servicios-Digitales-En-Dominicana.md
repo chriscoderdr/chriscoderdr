@@ -16,7 +16,7 @@ En mi opinión como ciudadanos deberíamos reclamar utilizando todos los medios 
 
 
 
-#InternetTazaCeroEnDominicana
+#InternetTasaCeroEnDominicana
 
 
 
