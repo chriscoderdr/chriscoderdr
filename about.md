@@ -16,4 +16,4 @@ I've been living in Santo Domingo, the most populous city and capital of my coun
 
 ### Contact me
 
-[cristian@gomez.rocks](mailto:critian@gomez.ninja)
+[cristian@gomez.ninja](mailto:critian@gomez.ninja)
