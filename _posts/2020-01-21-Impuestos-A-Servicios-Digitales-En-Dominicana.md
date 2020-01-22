@@ -24,7 +24,11 @@ En mi opinión como ciudadanos deberíamos reclamar utilizando todos los medios 
 Fuentes:
 
 https://www.diariolibre.com/economia/gobierno-quiere-cobrar-el-18-de-itbis-o-el-10-del-consumo-selectivo-a-servicios-digitales-AA14503407
+
 https://www.politicargentina.com/notas/201912/31620-netflix-y-spotify-el-gobierno-suavizo-fuerte-el-impuesto-a-los-servicios-digitales-en-dolares-y-no-pagaran-el-30.html
+
 https://www.diariolibre.com/actualidad/tecnologia/impuestos-de-las-facturas-telefonicas-ya-suman-el-30-MF7052691
+
 https://cnnespanol.cnn.com/2011/06/09/el-acceso-a-internet-un-derecho-humano-segun-la-onu/
+
 https://www.xataka.com/tecnologiazen/el-fascinante-mapa-de-los-paises-que-ya-consideran-internet-como-un-derecho-basico
