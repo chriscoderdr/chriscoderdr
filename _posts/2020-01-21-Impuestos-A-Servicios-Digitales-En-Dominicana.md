@@ -2,7 +2,7 @@
 layout: post
 title: Impuestos a servicios digitales en República Dominicana
 page.excerpt: Recientemente ha sido noticia que el gobierno dominicano quiere cobrar el 18% de ITBIS o el 10% del consumo selectivo a servicios digitales.
-header-img: "https://p1.pxfuel.com/preview/264/185/69/laptop-hand-leave-internet.jpg"
+header-img: https://p1.pxfuel.com/preview/264/185/69/laptop-hand-leave-internet.jpg
 ---
 
 ![Internet](https://p1.pxfuel.com/preview/264/185/69/laptop-hand-leave-internet.jpg)
