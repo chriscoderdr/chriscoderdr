@@ -19,6 +19,7 @@ Recordemos que no solo sirven los servicios digitales como un medio de entreteni
 En mi opinión como ciudadanos deberíamos reclamar utilizando todos los medios a nuesta disposición (Redes sociales, protestas pacificas en las calles y castigando con el voto). No dejemos que nuestro país cometa el error de hacer la brecha digital aún  mas grande. Al contrario debemos promover por que se remuevan los impuestos actuales al servicio de internet.
 
 
+Los Exhorto a publicar en sus redes sociales con el hashtag:
 
 #InternetTasaCeroEnDominicana
 
