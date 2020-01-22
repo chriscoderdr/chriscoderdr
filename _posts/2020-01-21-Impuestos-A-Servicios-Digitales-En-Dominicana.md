@@ -9,7 +9,7 @@ No tomando en cuenta estas informaciónes que en R.D. existe un 30% de impuestos
 
 Me parece una decisión poco acertada del gobierno el querer imponer una tasa impositiva a los medios digitales, mientras en los países que presentan mayor progreso no solo no tienen estos servicios una tasa impositiva, sino que ademas el servicio  de Internet es percibido como un derecho.
 
-Recordemos que no solo sirven los servicios digitales como un mediode entretenimiento, son tambíen en estos momentos la forma mas rápida y fácil de obtener acceso a información y educarse sobre cualquier tema  que uno pudiese imaginarse.
+Recordemos que no solo sirven los servicios digitales como un medio de entretenimiento, son tambíen en estos momentos la forma mas rápida y fácil de obtener acceso a información y educarse sobre cualquier tema  que uno pudiese imaginarse.
 
 
 En mi opinión como ciudadanos deberíamos reclamar utilizando todos los medios a nuesta disposición (Redes sociales, protestas pacificas en las calles y castigando con el voto). No dejemos que nuestro país cometa el error de hacer la brecha digital aún  mas grande. Al contrario debemos promover por que se remuevan los impuestos actuales al servicio de internet.
