@@ -1,3 +1,8 @@
+---
+layout: post
+title: Como salir de la pobreza usando la tecnología.
+---
+
 Es bien sabido que la pobreza es influenciada por cientos de factores que no elegimos que tienen que ver el lugar donde nacemos, la familia en que nacemos,
 los acontecimientos que pasan en nuestra vida y mucho más. Pero con la suficiente motivación esos factores pueden vencerse, claro no es fácil.
 
