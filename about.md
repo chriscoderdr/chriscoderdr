@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![](https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/154829540_1278442459239386_9091033753414650351_o.jpg?_nc_cat=111&ccb=3&_nc_sid=09cbfe&_nc_ohc=ycAEvIdoCcMAX-lwxnm&_nc_ht=scontent-atl3-1.xx&oh=bb0057d479771acf81849ae28a408cd7&oe=606301CF)
+
 Geek, fast food lover, dominican, programmer.
 
 ### More Information
